@@ -1,4 +1,12 @@
 int main (void)
 {
     printf("Hola Mundo");
+    printf("Cerrar la ventana");
 }
+
+// Comandos de git 
+// git clone <repo> --clonar un  repositorio
+// git fetch –Una vez clonado el repositorio se descarga la información
+// git pull origin main –Cargada la informacion me movie a mi ultimo commit
+// git commit  -am “mensaje” –Guardar los cambios en mi computadora
+// git push origin main – para empujar los cambios en mi computadora
